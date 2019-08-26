@@ -14,6 +14,8 @@ docker-compose up -d # << -dはバックグラウンド実行
 docker-compose down
 ```
 
+---
+
 ### Dockerイメージのビルド（常にnodeの最新イメージを使う場合 -> `--pull=true`）
 
 ```bash
