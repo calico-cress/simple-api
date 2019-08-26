@@ -1,6 +1,6 @@
-# Node.js（TypeScript + express）Web API（Dockerコンテナ）
+# Node.js（TypeScript + express）Web API
 
-## 使い方（以下イメージ名の例 -> example/echo）
+## 使い方
 
 ### Dockerイメージのビルドからコンテナ実行まで（`docker-compose.yml`を準備している場合）
 
